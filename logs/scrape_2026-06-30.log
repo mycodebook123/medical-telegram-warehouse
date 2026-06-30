@@ -1,0 +1,555 @@
+2026-06-30 11:43:17,976 | INFO | === Scrape run started ===
+2026-06-30 11:43:18,251 | INFO | Connecting to 149.154.167.51:443/TcpFull...
+2026-06-30 11:43:28,273 | WARNING | Attempt 1 at connecting failed: TimeoutError: 
+2026-06-30 11:43:30,887 | INFO | Connection to 149.154.167.51:443/TcpFull complete!
+2026-06-30 11:43:44,744 | INFO | Phone migrated to 4
+2026-06-30 11:43:44,896 | INFO | Reconnecting to new data center 4
+2026-06-30 11:43:45,019 | INFO | Disconnecting from 149.154.167.51:443/TcpFull...
+2026-06-30 11:43:45,020 | INFO | Disconnection from 149.154.167.51:443/TcpFull complete!
+2026-06-30 11:43:45,021 | INFO | Connecting to 149.154.167.91:443/TcpFull...
+2026-06-30 11:43:46,527 | INFO | Connection to 149.154.167.91:443/TcpFull complete!
+2026-06-30 11:45:31,042 | INFO | Starting scrape for channel: CheMed123
+2026-06-30 11:45:31,704 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:45:32,778 | INFO | Downloaded image for message 97 in CheMed123
+2026-06-30 11:45:32,779 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:45:34,052 | INFO | Downloaded image for message 96 in CheMed123
+2026-06-30 11:45:34,053 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:45:34,928 | INFO | Downloaded image for message 95 in CheMed123
+2026-06-30 11:45:34,929 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:45:36,056 | INFO | Downloaded image for message 94 in CheMed123
+2026-06-30 11:45:36,058 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:45:37,913 | INFO | Downloaded image for message 93 in CheMed123
+2026-06-30 11:45:37,916 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:45:39,380 | INFO | Downloaded image for message 92 in CheMed123
+2026-06-30 11:45:39,382 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:45:40,298 | INFO | Downloaded image for message 91 in CheMed123
+2026-06-30 11:45:40,299 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:45:42,426 | INFO | Downloaded image for message 90 in CheMed123
+2026-06-30 11:45:42,428 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:45:44,266 | INFO | Downloaded image for message 88 in CheMed123
+2026-06-30 11:45:44,268 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:45:46,064 | INFO | Downloaded image for message 87 in CheMed123
+2026-06-30 11:45:46,065 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:45:47,620 | INFO | Downloaded image for message 86 in CheMed123
+2026-06-30 11:45:47,621 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:45:48,500 | INFO | Downloaded image for message 85 in CheMed123
+2026-06-30 11:45:48,501 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:45:49,614 | INFO | Downloaded image for message 82 in CheMed123
+2026-06-30 11:45:49,615 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:45:51,291 | INFO | Downloaded image for message 81 in CheMed123
+2026-06-30 11:45:51,292 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:45:53,986 | INFO | Downloaded image for message 80 in CheMed123
+2026-06-30 11:45:53,987 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:45:56,501 | INFO | Downloaded image for message 79 in CheMed123
+2026-06-30 11:45:56,502 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:45:59,110 | INFO | Downloaded image for message 78 in CheMed123
+2026-06-30 11:45:59,111 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:46:01,701 | INFO | Downloaded image for message 77 in CheMed123
+2026-06-30 11:46:01,704 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:46:03,645 | INFO | Downloaded image for message 76 in CheMed123
+2026-06-30 11:46:03,648 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:46:05,953 | INFO | Downloaded image for message 75 in CheMed123
+2026-06-30 11:46:05,954 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:46:07,779 | INFO | Downloaded image for message 74 in CheMed123
+2026-06-30 11:46:07,780 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:46:09,901 | INFO | Downloaded image for message 71 in CheMed123
+2026-06-30 11:46:09,904 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:46:12,153 | INFO | Downloaded image for message 70 in CheMed123
+2026-06-30 11:46:12,154 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:46:14,390 | INFO | Downloaded image for message 67 in CheMed123
+2026-06-30 11:46:14,391 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:46:16,730 | INFO | Downloaded image for message 64 in CheMed123
+2026-06-30 11:46:16,731 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:46:17,893 | INFO | Downloaded image for message 60 in CheMed123
+2026-06-30 11:46:17,896 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:46:19,142 | INFO | Downloaded image for message 59 in CheMed123
+2026-06-30 11:46:19,143 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:46:19,798 | INFO | Downloaded image for message 58 in CheMed123
+2026-06-30 11:46:19,800 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:46:21,622 | INFO | Downloaded image for message 56 in CheMed123
+2026-06-30 11:46:21,623 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:46:23,184 | INFO | Downloaded image for message 55 in CheMed123
+2026-06-30 11:46:23,185 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:46:25,887 | INFO | Downloaded image for message 53 in CheMed123
+2026-06-30 11:46:25,889 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:46:27,189 | INFO | Downloaded image for message 52 in CheMed123
+2026-06-30 11:46:27,191 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:46:28,190 | INFO | Downloaded image for message 50 in CheMed123
+2026-06-30 11:46:28,192 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:46:29,288 | INFO | Downloaded image for message 49 in CheMed123
+2026-06-30 11:46:29,290 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:46:31,602 | INFO | Downloaded image for message 48 in CheMed123
+2026-06-30 11:46:31,604 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:46:32,770 | INFO | Downloaded image for message 46 in CheMed123
+2026-06-30 11:46:32,778 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:46:34,326 | INFO | Downloaded image for message 45 in CheMed123
+2026-06-30 11:46:34,328 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:46:35,441 | INFO | Downloaded image for message 44 in CheMed123
+2026-06-30 11:46:35,444 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:46:36,729 | INFO | Downloaded image for message 43 in CheMed123
+2026-06-30 11:46:36,732 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:46:40,738 | INFO | Downloaded image for message 41 in CheMed123
+2026-06-30 11:46:40,739 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:46:42,202 | INFO | Downloaded image for message 40 in CheMed123
+2026-06-30 11:46:42,203 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:46:43,628 | INFO | Downloaded image for message 39 in CheMed123
+2026-06-30 11:46:43,630 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:46:44,961 | INFO | Downloaded image for message 38 in CheMed123
+2026-06-30 11:46:44,963 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:46:45,988 | INFO | Downloaded image for message 34 in CheMed123
+2026-06-30 11:46:45,989 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:46:48,445 | INFO | Downloaded image for message 33 in CheMed123
+2026-06-30 11:46:48,447 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:46:50,018 | INFO | Downloaded image for message 32 in CheMed123
+2026-06-30 11:46:50,020 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:46:51,537 | INFO | Downloaded image for message 31 in CheMed123
+2026-06-30 11:46:51,538 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:46:52,963 | INFO | Downloaded image for message 30 in CheMed123
+2026-06-30 11:46:52,964 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:46:54,945 | INFO | Downloaded image for message 29 in CheMed123
+2026-06-30 11:46:54,947 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:46:56,073 | INFO | Downloaded image for message 27 in CheMed123
+2026-06-30 11:46:56,076 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:47:00,600 | INFO | Downloaded image for message 26 in CheMed123
+2026-06-30 11:47:00,615 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:47:04,306 | INFO | Downloaded image for message 25 in CheMed123
+2026-06-30 11:47:04,352 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:47:05,603 | INFO | Downloaded image for message 23 in CheMed123
+2026-06-30 11:47:05,604 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:47:06,666 | INFO | Downloaded image for message 22 in CheMed123
+2026-06-30 11:47:06,668 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:47:08,184 | INFO | Downloaded image for message 21 in CheMed123
+2026-06-30 11:47:08,186 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:47:11,232 | INFO | Downloaded image for message 20 in CheMed123
+2026-06-30 11:47:11,233 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:47:14,511 | INFO | Downloaded image for message 19 in CheMed123
+2026-06-30 11:47:14,513 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:47:17,387 | INFO | Downloaded image for message 18 in CheMed123
+2026-06-30 11:47:17,388 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:47:19,451 | INFO | Downloaded image for message 17 in CheMed123
+2026-06-30 11:47:19,453 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:47:21,290 | INFO | Downloaded image for message 15 in CheMed123
+2026-06-30 11:47:21,293 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:47:25,788 | INFO | Downloaded image for message 14 in CheMed123
+2026-06-30 11:47:25,790 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:47:31,646 | INFO | Downloaded image for message 13 in CheMed123
+2026-06-30 11:47:31,648 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:47:33,354 | INFO | Downloaded image for message 11 in CheMed123
+2026-06-30 11:47:33,356 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:47:35,101 | INFO | Downloaded image for message 10 in CheMed123
+2026-06-30 11:47:35,102 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:47:35,830 | INFO | Downloaded image for message 9 in CheMed123
+2026-06-30 11:47:35,832 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:47:36,762 | INFO | Downloaded image for message 3 in CheMed123
+2026-06-30 11:47:36,766 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:47:37,387 | INFO | Downloaded image for message 2 in CheMed123
+2026-06-30 11:47:37,420 | INFO | Saved 76 messages from CheMed123 to data\raw\telegram_messages\2026-06-30\CheMed123.json
+2026-06-30 11:47:37,420 | INFO | Starting scrape for channel: lobelia4cosmetics
+2026-06-30 11:47:38,074 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:47:38,976 | INFO | Downloaded image for message 26726 in lobelia4cosmetics
+2026-06-30 11:47:38,978 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:47:40,006 | INFO | Downloaded image for message 26725 in lobelia4cosmetics
+2026-06-30 11:47:40,008 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:47:41,210 | INFO | Downloaded image for message 26724 in lobelia4cosmetics
+2026-06-30 11:47:41,211 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:47:42,583 | INFO | Downloaded image for message 26723 in lobelia4cosmetics
+2026-06-30 11:47:42,585 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:47:45,563 | INFO | Downloaded image for message 26722 in lobelia4cosmetics
+2026-06-30 11:47:45,566 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:47:46,080 | INFO | Downloaded image for message 26721 in lobelia4cosmetics
+2026-06-30 11:47:46,082 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:47:48,371 | INFO | Downloaded image for message 26720 in lobelia4cosmetics
+2026-06-30 11:47:48,373 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:47:50,986 | INFO | Downloaded image for message 26719 in lobelia4cosmetics
+2026-06-30 11:47:50,987 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:47:53,491 | INFO | Downloaded image for message 26718 in lobelia4cosmetics
+2026-06-30 11:47:53,494 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:47:54,102 | INFO | Downloaded image for message 26717 in lobelia4cosmetics
+2026-06-30 11:47:54,103 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:47:56,732 | INFO | Downloaded image for message 26716 in lobelia4cosmetics
+2026-06-30 11:47:56,733 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:47:58,585 | INFO | Downloaded image for message 26715 in lobelia4cosmetics
+2026-06-30 11:47:58,587 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:48:01,004 | INFO | Downloaded image for message 26714 in lobelia4cosmetics
+2026-06-30 11:48:01,005 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:48:03,383 | INFO | Downloaded image for message 26713 in lobelia4cosmetics
+2026-06-30 11:48:03,384 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:48:05,011 | INFO | Downloaded image for message 26712 in lobelia4cosmetics
+2026-06-30 11:48:05,013 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:48:06,273 | INFO | Downloaded image for message 26711 in lobelia4cosmetics
+2026-06-30 11:48:06,275 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:48:07,352 | INFO | Downloaded image for message 26710 in lobelia4cosmetics
+2026-06-30 11:48:07,354 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:48:08,184 | INFO | Downloaded image for message 26709 in lobelia4cosmetics
+2026-06-30 11:48:08,186 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:48:09,421 | INFO | Downloaded image for message 26708 in lobelia4cosmetics
+2026-06-30 11:48:09,423 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:48:10,763 | INFO | Downloaded image for message 26707 in lobelia4cosmetics
+2026-06-30 11:48:10,766 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:48:11,692 | INFO | Downloaded image for message 26706 in lobelia4cosmetics
+2026-06-30 11:48:11,694 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:48:13,303 | INFO | Downloaded image for message 26705 in lobelia4cosmetics
+2026-06-30 11:48:13,304 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:48:14,827 | INFO | Downloaded image for message 26704 in lobelia4cosmetics
+2026-06-30 11:48:14,829 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:48:18,249 | INFO | Downloaded image for message 26703 in lobelia4cosmetics
+2026-06-30 11:48:18,250 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:48:23,734 | INFO | Downloaded image for message 26702 in lobelia4cosmetics
+2026-06-30 11:48:23,736 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:48:26,301 | INFO | Downloaded image for message 26701 in lobelia4cosmetics
+2026-06-30 11:48:26,303 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:48:28,813 | INFO | Downloaded image for message 26700 in lobelia4cosmetics
+2026-06-30 11:48:28,815 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:48:30,267 | INFO | Downloaded image for message 26699 in lobelia4cosmetics
+2026-06-30 11:48:30,269 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:48:30,914 | INFO | Downloaded image for message 26698 in lobelia4cosmetics
+2026-06-30 11:48:30,915 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:48:33,172 | INFO | Downloaded image for message 26697 in lobelia4cosmetics
+2026-06-30 11:48:33,174 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:48:35,329 | INFO | Downloaded image for message 26696 in lobelia4cosmetics
+2026-06-30 11:48:35,331 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:48:36,144 | INFO | Downloaded image for message 26695 in lobelia4cosmetics
+2026-06-30 11:48:36,145 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:48:37,446 | INFO | Downloaded image for message 26694 in lobelia4cosmetics
+2026-06-30 11:48:37,447 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:48:38,527 | INFO | Downloaded image for message 26693 in lobelia4cosmetics
+2026-06-30 11:48:38,528 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:48:50,790 | INFO | Downloaded image for message 26692 in lobelia4cosmetics
+2026-06-30 11:48:50,795 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:48:52,411 | INFO | Downloaded image for message 26691 in lobelia4cosmetics
+2026-06-30 11:48:52,413 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:48:53,920 | INFO | Downloaded image for message 26690 in lobelia4cosmetics
+2026-06-30 11:48:53,923 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:48:55,671 | INFO | Downloaded image for message 26689 in lobelia4cosmetics
+2026-06-30 11:48:55,675 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:48:56,371 | INFO | Downloaded image for message 26688 in lobelia4cosmetics
+2026-06-30 11:48:56,373 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:48:56,885 | INFO | Downloaded image for message 26687 in lobelia4cosmetics
+2026-06-30 11:48:56,887 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:48:58,305 | INFO | Downloaded image for message 26686 in lobelia4cosmetics
+2026-06-30 11:48:58,308 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:48:59,142 | INFO | Downloaded image for message 26685 in lobelia4cosmetics
+2026-06-30 11:48:59,145 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:48:59,651 | INFO | Downloaded image for message 26684 in lobelia4cosmetics
+2026-06-30 11:48:59,654 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:49:01,394 | INFO | Downloaded image for message 26683 in lobelia4cosmetics
+2026-06-30 11:49:01,398 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:49:04,318 | INFO | Downloaded image for message 26682 in lobelia4cosmetics
+2026-06-30 11:49:04,321 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:49:06,502 | INFO | Downloaded image for message 26681 in lobelia4cosmetics
+2026-06-30 11:49:06,504 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:49:10,278 | INFO | Downloaded image for message 26680 in lobelia4cosmetics
+2026-06-30 11:49:10,281 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:49:12,702 | INFO | Downloaded image for message 26679 in lobelia4cosmetics
+2026-06-30 11:49:12,704 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:49:16,205 | INFO | Downloaded image for message 26678 in lobelia4cosmetics
+2026-06-30 11:49:16,208 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:49:17,697 | INFO | Downloaded image for message 26677 in lobelia4cosmetics
+2026-06-30 11:49:17,698 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:49:18,349 | INFO | Downloaded image for message 26676 in lobelia4cosmetics
+2026-06-30 11:49:18,352 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:49:21,243 | INFO | Downloaded image for message 26675 in lobelia4cosmetics
+2026-06-30 11:49:21,245 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:49:21,759 | INFO | Downloaded image for message 26674 in lobelia4cosmetics
+2026-06-30 11:49:21,761 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:49:23,516 | INFO | Downloaded image for message 26673 in lobelia4cosmetics
+2026-06-30 11:49:23,520 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:49:25,610 | INFO | Downloaded image for message 26672 in lobelia4cosmetics
+2026-06-30 11:49:25,612 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:49:26,118 | INFO | Downloaded image for message 26671 in lobelia4cosmetics
+2026-06-30 11:49:26,120 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:49:27,035 | INFO | Downloaded image for message 26670 in lobelia4cosmetics
+2026-06-30 11:49:27,036 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:49:28,368 | INFO | Downloaded image for message 26669 in lobelia4cosmetics
+2026-06-30 11:49:28,371 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:49:42,943 | INFO | Downloaded image for message 26668 in lobelia4cosmetics
+2026-06-30 11:49:42,945 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:49:45,406 | INFO | Downloaded image for message 26667 in lobelia4cosmetics
+2026-06-30 11:49:45,418 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:49:47,282 | INFO | Downloaded image for message 26666 in lobelia4cosmetics
+2026-06-30 11:49:47,284 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:49:48,102 | INFO | Downloaded image for message 26665 in lobelia4cosmetics
+2026-06-30 11:49:48,105 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:49:49,446 | INFO | Downloaded image for message 26664 in lobelia4cosmetics
+2026-06-30 11:49:49,448 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:49:50,139 | INFO | Downloaded image for message 26663 in lobelia4cosmetics
+2026-06-30 11:49:50,142 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:49:51,859 | INFO | Downloaded image for message 26662 in lobelia4cosmetics
+2026-06-30 11:49:51,861 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:49:53,480 | INFO | Downloaded image for message 26661 in lobelia4cosmetics
+2026-06-30 11:49:53,482 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:49:54,534 | INFO | Downloaded image for message 26660 in lobelia4cosmetics
+2026-06-30 11:49:54,536 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:49:54,922 | INFO | Downloaded image for message 26659 in lobelia4cosmetics
+2026-06-30 11:49:54,925 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:49:56,052 | INFO | Downloaded image for message 26658 in lobelia4cosmetics
+2026-06-30 11:49:56,054 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:49:57,469 | INFO | Downloaded image for message 26657 in lobelia4cosmetics
+2026-06-30 11:49:57,471 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:49:58,227 | INFO | Downloaded image for message 26656 in lobelia4cosmetics
+2026-06-30 11:49:58,230 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:49:58,757 | INFO | Downloaded image for message 26655 in lobelia4cosmetics
+2026-06-30 11:49:58,759 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:50:01,297 | INFO | Downloaded image for message 26654 in lobelia4cosmetics
+2026-06-30 11:50:01,299 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:50:02,428 | INFO | Downloaded image for message 26653 in lobelia4cosmetics
+2026-06-30 11:50:02,431 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:50:03,292 | INFO | Downloaded image for message 26652 in lobelia4cosmetics
+2026-06-30 11:50:03,295 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:50:03,764 | INFO | Downloaded image for message 26651 in lobelia4cosmetics
+2026-06-30 11:50:03,767 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:50:05,118 | INFO | Downloaded image for message 26650 in lobelia4cosmetics
+2026-06-30 11:50:05,120 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:50:16,128 | INFO | Downloaded image for message 26649 in lobelia4cosmetics
+2026-06-30 11:50:16,130 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:50:17,647 | INFO | Downloaded image for message 26648 in lobelia4cosmetics
+2026-06-30 11:50:17,648 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:50:19,128 | INFO | Downloaded image for message 26647 in lobelia4cosmetics
+2026-06-30 11:50:19,130 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:50:20,973 | INFO | Downloaded image for message 26646 in lobelia4cosmetics
+2026-06-30 11:50:20,977 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:50:22,559 | INFO | Downloaded image for message 26645 in lobelia4cosmetics
+2026-06-30 11:50:22,562 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:50:25,035 | INFO | Downloaded image for message 26644 in lobelia4cosmetics
+2026-06-30 11:50:25,037 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:50:28,296 | INFO | Downloaded image for message 26643 in lobelia4cosmetics
+2026-06-30 11:50:28,299 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:50:30,172 | INFO | Downloaded image for message 26642 in lobelia4cosmetics
+2026-06-30 11:50:30,174 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:50:33,238 | INFO | Downloaded image for message 26641 in lobelia4cosmetics
+2026-06-30 11:50:33,242 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:50:34,766 | INFO | Downloaded image for message 26640 in lobelia4cosmetics
+2026-06-30 11:50:34,768 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:50:35,905 | INFO | Downloaded image for message 26639 in lobelia4cosmetics
+2026-06-30 11:50:35,907 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:50:36,092 | INFO | Downloaded image for message 26638 in lobelia4cosmetics
+2026-06-30 11:50:36,093 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:50:37,185 | INFO | Downloaded image for message 26637 in lobelia4cosmetics
+2026-06-30 11:50:37,187 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:50:39,064 | INFO | Downloaded image for message 26636 in lobelia4cosmetics
+2026-06-30 11:50:39,066 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:50:40,177 | INFO | Downloaded image for message 26635 in lobelia4cosmetics
+2026-06-30 11:50:40,179 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:50:41,112 | INFO | Downloaded image for message 26634 in lobelia4cosmetics
+2026-06-30 11:50:41,114 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:50:42,549 | INFO | Downloaded image for message 26633 in lobelia4cosmetics
+2026-06-30 11:50:42,552 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:50:43,301 | INFO | Downloaded image for message 26632 in lobelia4cosmetics
+2026-06-30 11:50:43,304 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:50:44,320 | INFO | Downloaded image for message 26631 in lobelia4cosmetics
+2026-06-30 11:50:44,321 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:50:46,673 | INFO | Downloaded image for message 26630 in lobelia4cosmetics
+2026-06-30 11:50:46,678 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:50:48,385 | INFO | Downloaded image for message 26629 in lobelia4cosmetics
+2026-06-30 11:50:48,392 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:50:50,126 | INFO | Downloaded image for message 26628 in lobelia4cosmetics
+2026-06-30 11:50:50,128 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:51:01,136 | INFO | Downloaded image for message 26627 in lobelia4cosmetics
+2026-06-30 11:51:02,136 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:51:04,081 | INFO | Downloaded image for message 26626 in lobelia4cosmetics
+2026-06-30 11:51:04,083 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:51:05,576 | INFO | Downloaded image for message 26625 in lobelia4cosmetics
+2026-06-30 11:51:05,577 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:51:06,725 | INFO | Downloaded image for message 26624 in lobelia4cosmetics
+2026-06-30 11:51:06,727 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:51:07,855 | INFO | Downloaded image for message 26623 in lobelia4cosmetics
+2026-06-30 11:51:07,859 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:51:09,658 | INFO | Downloaded image for message 26622 in lobelia4cosmetics
+2026-06-30 11:51:09,659 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:51:11,260 | INFO | Downloaded image for message 26621 in lobelia4cosmetics
+2026-06-30 11:51:11,261 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:51:12,614 | INFO | Downloaded image for message 26620 in lobelia4cosmetics
+2026-06-30 11:51:12,615 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:51:13,939 | INFO | Downloaded image for message 26619 in lobelia4cosmetics
+2026-06-30 11:51:13,943 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:51:15,777 | INFO | Downloaded image for message 26618 in lobelia4cosmetics
+2026-06-30 11:51:15,779 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:51:17,462 | INFO | Downloaded image for message 26617 in lobelia4cosmetics
+2026-06-30 11:51:17,465 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:51:19,562 | INFO | Downloaded image for message 26616 in lobelia4cosmetics
+2026-06-30 11:51:19,564 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:51:22,002 | INFO | Downloaded image for message 26615 in lobelia4cosmetics
+2026-06-30 11:51:22,004 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:51:23,103 | INFO | Downloaded image for message 26614 in lobelia4cosmetics
+2026-06-30 11:51:23,105 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:51:25,017 | INFO | Downloaded image for message 26613 in lobelia4cosmetics
+2026-06-30 11:51:25,020 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:51:27,344 | INFO | Downloaded image for message 26612 in lobelia4cosmetics
+2026-06-30 11:51:27,346 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:51:34,803 | INFO | Downloaded image for message 26611 in lobelia4cosmetics
+2026-06-30 11:51:34,806 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:51:36,969 | INFO | Downloaded image for message 26610 in lobelia4cosmetics
+2026-06-30 11:51:36,970 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:51:38,450 | INFO | Downloaded image for message 26609 in lobelia4cosmetics
+2026-06-30 11:51:38,452 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:51:39,568 | INFO | Downloaded image for message 26608 in lobelia4cosmetics
+2026-06-30 11:51:39,570 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:51:41,826 | INFO | Downloaded image for message 26607 in lobelia4cosmetics
+2026-06-30 11:51:41,827 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:51:48,470 | INFO | Downloaded image for message 26606 in lobelia4cosmetics
+2026-06-30 11:51:48,473 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:51:50,095 | INFO | Downloaded image for message 26605 in lobelia4cosmetics
+2026-06-30 11:51:50,096 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:51:51,549 | INFO | Downloaded image for message 26604 in lobelia4cosmetics
+2026-06-30 11:51:51,551 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:51:52,604 | INFO | Downloaded image for message 26603 in lobelia4cosmetics
+2026-06-30 11:51:52,611 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:51:52,784 | INFO | Downloaded image for message 26602 in lobelia4cosmetics
+2026-06-30 11:51:52,786 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:51:54,369 | INFO | Downloaded image for message 26601 in lobelia4cosmetics
+2026-06-30 11:51:54,370 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:51:55,977 | INFO | Downloaded image for message 26600 in lobelia4cosmetics
+2026-06-30 11:51:55,978 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:51:57,546 | INFO | Downloaded image for message 26599 in lobelia4cosmetics
+2026-06-30 11:51:57,549 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:51:57,997 | INFO | Downloaded image for message 26598 in lobelia4cosmetics
+2026-06-30 11:51:57,999 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:52:00,417 | INFO | Downloaded image for message 26597 in lobelia4cosmetics
+2026-06-30 11:52:00,418 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:52:02,681 | INFO | Downloaded image for message 26596 in lobelia4cosmetics
+2026-06-30 11:52:02,683 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:52:05,341 | INFO | Downloaded image for message 26595 in lobelia4cosmetics
+2026-06-30 11:52:05,343 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:52:06,892 | INFO | Downloaded image for message 26594 in lobelia4cosmetics
+2026-06-30 11:52:06,894 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:52:08,169 | INFO | Downloaded image for message 26593 in lobelia4cosmetics
+2026-06-30 11:52:08,171 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:52:10,482 | INFO | Downloaded image for message 26592 in lobelia4cosmetics
+2026-06-30 11:52:10,484 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:52:11,730 | INFO | Downloaded image for message 26591 in lobelia4cosmetics
+2026-06-30 11:52:11,731 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:52:13,364 | INFO | Downloaded image for message 26590 in lobelia4cosmetics
+2026-06-30 11:52:13,365 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:52:14,655 | INFO | Downloaded image for message 26589 in lobelia4cosmetics
+2026-06-30 11:52:14,659 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:52:16,740 | INFO | Downloaded image for message 26588 in lobelia4cosmetics
+2026-06-30 11:52:16,743 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:52:17,302 | INFO | Downloaded image for message 26587 in lobelia4cosmetics
+2026-06-30 11:52:17,303 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:52:18,601 | INFO | Downloaded image for message 26586 in lobelia4cosmetics
+2026-06-30 11:52:18,602 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:52:20,120 | INFO | Downloaded image for message 26585 in lobelia4cosmetics
+2026-06-30 11:52:20,121 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:52:21,247 | INFO | Downloaded image for message 26584 in lobelia4cosmetics
+2026-06-30 11:52:21,249 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:52:21,942 | INFO | Downloaded image for message 26583 in lobelia4cosmetics
+2026-06-30 11:52:21,944 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:52:23,728 | INFO | Downloaded image for message 26582 in lobelia4cosmetics
+2026-06-30 11:52:23,729 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:52:25,979 | INFO | Downloaded image for message 26581 in lobelia4cosmetics
+2026-06-30 11:52:25,983 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:52:29,957 | INFO | Downloaded image for message 26580 in lobelia4cosmetics
+2026-06-30 11:52:29,961 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:52:31,429 | INFO | Downloaded image for message 26579 in lobelia4cosmetics
+2026-06-30 11:52:31,514 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:52:33,121 | INFO | Downloaded image for message 26578 in lobelia4cosmetics
+2026-06-30 11:52:33,124 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:52:34,874 | INFO | Downloaded image for message 26577 in lobelia4cosmetics
+2026-06-30 11:52:34,875 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:52:36,807 | INFO | Downloaded image for message 26576 in lobelia4cosmetics
+2026-06-30 11:52:36,809 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:52:38,481 | INFO | Downloaded image for message 26575 in lobelia4cosmetics
+2026-06-30 11:52:38,483 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:52:40,435 | INFO | Downloaded image for message 26574 in lobelia4cosmetics
+2026-06-30 11:52:40,436 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:52:41,783 | INFO | Downloaded image for message 26573 in lobelia4cosmetics
+2026-06-30 11:52:41,785 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:52:43,669 | INFO | Downloaded image for message 26572 in lobelia4cosmetics
+2026-06-30 11:52:43,671 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:52:44,652 | INFO | Downloaded image for message 26571 in lobelia4cosmetics
+2026-06-30 11:52:44,654 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:52:46,014 | INFO | Downloaded image for message 26570 in lobelia4cosmetics
+2026-06-30 11:52:46,017 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:52:46,793 | INFO | Downloaded image for message 26569 in lobelia4cosmetics
+2026-06-30 11:52:46,797 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:52:48,984 | INFO | Downloaded image for message 26568 in lobelia4cosmetics
+2026-06-30 11:52:48,986 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:52:49,583 | INFO | Downloaded image for message 26567 in lobelia4cosmetics
+2026-06-30 11:52:49,585 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:52:50,474 | INFO | Downloaded image for message 26566 in lobelia4cosmetics
+2026-06-30 11:52:50,476 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:52:51,696 | INFO | Downloaded image for message 26565 in lobelia4cosmetics
+2026-06-30 11:52:51,699 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:52:52,773 | INFO | Downloaded image for message 26564 in lobelia4cosmetics
+2026-06-30 11:52:52,775 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:52:54,721 | INFO | Downloaded image for message 26563 in lobelia4cosmetics
+2026-06-30 11:52:54,723 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:53:20,447 | INFO | Downloaded image for message 26562 in lobelia4cosmetics
+2026-06-30 11:53:20,450 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:53:24,815 | INFO | Downloaded image for message 26561 in lobelia4cosmetics
+2026-06-30 11:53:24,816 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:53:49,657 | INFO | Downloaded image for message 26560 in lobelia4cosmetics
+2026-06-30 11:53:49,661 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:53:52,968 | INFO | Downloaded image for message 26559 in lobelia4cosmetics
+2026-06-30 11:53:52,972 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:53:55,209 | INFO | Downloaded image for message 26558 in lobelia4cosmetics
+2026-06-30 11:53:55,210 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:53:56,239 | INFO | Downloaded image for message 26557 in lobelia4cosmetics
+2026-06-30 11:53:56,242 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:53:56,654 | INFO | Downloaded image for message 26556 in lobelia4cosmetics
+2026-06-30 11:53:56,657 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:53:57,729 | INFO | Downloaded image for message 26555 in lobelia4cosmetics
+2026-06-30 11:53:57,731 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:54:00,086 | INFO | Downloaded image for message 26554 in lobelia4cosmetics
+2026-06-30 11:54:00,089 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:54:01,672 | INFO | Downloaded image for message 26553 in lobelia4cosmetics
+2026-06-30 11:54:01,673 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:54:02,014 | INFO | Downloaded image for message 26552 in lobelia4cosmetics
+2026-06-30 11:54:02,018 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:54:03,892 | INFO | Downloaded image for message 26551 in lobelia4cosmetics
+2026-06-30 11:54:03,894 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:54:06,033 | INFO | Downloaded image for message 26550 in lobelia4cosmetics
+2026-06-30 11:54:06,036 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:54:07,496 | INFO | Downloaded image for message 26549 in lobelia4cosmetics
+2026-06-30 11:54:07,497 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:54:07,974 | INFO | Downloaded image for message 26548 in lobelia4cosmetics
+2026-06-30 11:54:07,976 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:54:09,292 | INFO | Downloaded image for message 26547 in lobelia4cosmetics
+2026-06-30 11:54:09,295 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:54:10,759 | INFO | Downloaded image for message 26546 in lobelia4cosmetics
+2026-06-30 11:54:10,764 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:54:12,032 | INFO | Downloaded image for message 26545 in lobelia4cosmetics
+2026-06-30 11:54:12,033 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:54:13,492 | INFO | Downloaded image for message 26544 in lobelia4cosmetics
+2026-06-30 11:54:13,494 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:54:15,283 | INFO | Downloaded image for message 26543 in lobelia4cosmetics
+2026-06-30 11:54:15,286 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:54:16,095 | INFO | Downloaded image for message 26542 in lobelia4cosmetics
+2026-06-30 11:54:16,097 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:54:17,362 | INFO | Downloaded image for message 26541 in lobelia4cosmetics
+2026-06-30 11:54:17,364 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:54:19,144 | INFO | Downloaded image for message 26540 in lobelia4cosmetics
+2026-06-30 11:54:19,146 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:54:29,037 | INFO | Downloaded image for message 26539 in lobelia4cosmetics
+2026-06-30 11:54:29,038 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:54:29,668 | INFO | Downloaded image for message 26538 in lobelia4cosmetics
+2026-06-30 11:54:29,670 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:54:32,037 | INFO | Downloaded image for message 26537 in lobelia4cosmetics
+2026-06-30 11:54:32,039 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:54:33,541 | INFO | Downloaded image for message 26536 in lobelia4cosmetics
+2026-06-30 11:54:33,546 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:54:35,246 | INFO | Downloaded image for message 26535 in lobelia4cosmetics
+2026-06-30 11:54:35,247 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:54:36,226 | INFO | Downloaded image for message 26534 in lobelia4cosmetics
+2026-06-30 11:54:36,230 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:54:38,601 | INFO | Downloaded image for message 26533 in lobelia4cosmetics
+2026-06-30 11:54:38,603 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:54:39,608 | INFO | Downloaded image for message 26532 in lobelia4cosmetics
+2026-06-30 11:54:39,613 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:54:41,718 | INFO | Downloaded image for message 26531 in lobelia4cosmetics
+2026-06-30 11:54:41,722 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:54:43,154 | INFO | Downloaded image for message 26530 in lobelia4cosmetics
+2026-06-30 11:54:43,164 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:54:48,172 | INFO | Downloaded image for message 26529 in lobelia4cosmetics
+2026-06-30 11:54:48,198 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:54:54,228 | INFO | Downloaded image for message 26528 in lobelia4cosmetics
+2026-06-30 11:54:54,280 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:54:57,662 | INFO | Downloaded image for message 26527 in lobelia4cosmetics
+2026-06-30 11:54:57,967 | INFO | Saved 200 messages from lobelia4cosmetics to data\raw\telegram_messages\2026-06-30\lobelia4cosmetics.json
+2026-06-30 11:54:57,967 | INFO | Starting scrape for channel: tikvahpharma1
+2026-06-30 11:54:58,270 | INFO | Starting direct file download in chunks of 131072 at 0, stride 131072
+2026-06-30 11:55:00,673 | INFO | Downloaded image for message 4 in tikvahpharma1
+2026-06-30 11:55:00,719 | INFO | Saved 3 messages from tikvahpharma1 to data\raw\telegram_messages\2026-06-30\tikvahpharma1.json
+2026-06-30 11:55:00,765 | INFO | Disconnecting from 149.154.167.91:443/TcpFull...
+2026-06-30 11:55:00,774 | INFO | Disconnection from 149.154.167.91:443/TcpFull complete!
+2026-06-30 11:55:00,788 | INFO | === Scrape run finished ===

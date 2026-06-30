@@ -1,0 +1,236 @@
+[
+  {
+    "message_id": 4,
+    "channel_name": "tikvahpharma1",
+    "message_date": "2024-03-26T07:09:27+00:00",
+    "message_text": "መድኃኒት ቤት በአዲስ አበባ 1927 ዓም\nPharmacy in Addis Ababa 1935\n\n📷 ታሪካችን \n\n@TikvahPharma1 👍",
+    "has_media": true,
+    "image_path": "data\\raw\\images\\tikvahpharma1\\4.jpg",
+    "views": 385,
+    "forwards": 1,
+    "raw": {
+      "_": "Message",
+      "id": 4,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 2124246939
+      },
+      "date": "2024-03-26 07:09:27+00:00",
+      "message": "መድኃኒት ቤት በአዲስ አበባ 1927 ዓም\nPharmacy in Addis Ababa 1935\n\n📷 ታሪካችን \n\n@TikvahPharma1 👍",
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "silent": false,
+      "post": true,
+      "from_scheduled": false,
+      "legacy": false,
+      "edit_hide": true,
+      "pinned": false,
+      "noforwards": false,
+      "invert_media": false,
+      "offline": false,
+      "video_processing_pending": false,
+      "paid_suggested_post_stars": false,
+      "paid_suggested_post_ton": false,
+      "from_id": null,
+      "from_boosts_applied": null,
+      "from_rank": null,
+      "saved_peer_id": null,
+      "fwd_from": null,
+      "via_bot_id": null,
+      "via_business_bot_id": null,
+      "guestchat_via_from": null,
+      "reply_to": null,
+      "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "live_photo": false,
+        "photo": {
+          "_": "Photo",
+          "id": 5830013123719971085,
+          "access_hash": 5684326633489616858,
+          "file_reference": "b'\\x02~\\x9do\\x9b\\x00\\x00\\x00\\x04jC\\x84a9\\x9dl\\x16M\\xfe\\xb3\\xeb\\x04\\x92\\x86c\\xa8\\xa0\\xd6\\x1e'",
+          "date": "2023-06-28 19:31:11+00:00",
+          "sizes": [
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b\"\\x01\\x1d(\\xb9\\x1b\\xe4r\\xd8\\xc3\\x1e\\xa7\\xad>i6\\xc6H\\x7f\\xca\\xb3\\x99\\xd5nO\\xa6M\\x05\\xc3;c>\\xd4\\x80\\x9f\\xcf|\\xfd\\xf3W\\x03\\xae\\xd1\\x96\\x19\\xc7\\xadeK+\\xa9P\\xa7\\x1cs\\x91N\\x13\\x0c\\x0c\\xe78\\xa0\\r/6<\\xe3x\\xa2\\xb2ZC\\xf6\\x81\\x83\\xc6E\\x14\\x00\\xc9O\\xef\\xdf\\xeai\\xcb \\x075{\\xec\\x91\\x97'\\x1c\\xe79\\xa5k8\\xd9O@}@\\xa0\\x0c\\xe9_{f\\x8d\\xc3g\\xbdX{\\x1c\\x1f\\xf5\\x9f\\xf8\\xed/\\xd8F\\x07\\xef?J\\x04U\\x07t\\xa0\\x8fQEZKM\\x87\\xfdg\\x7fJ(\\x19\""
+            },
+            {
+              "_": "PhotoSize",
+              "type": "m",
+              "w": 320,
+              "h": 233,
+              "size": 17208
+            },
+            {
+              "_": "PhotoSize",
+              "type": "x",
+              "w": 800,
+              "h": 583,
+              "size": 67068
+            },
+            {
+              "_": "PhotoSizeProgressive",
+              "type": "y",
+              "w": 1080,
+              "h": 787,
+              "sizes": [
+                10628,
+                26576,
+                33809,
+                37646,
+                44219
+              ]
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        },
+        "ttl_seconds": null,
+        "video": null
+      },
+      "reply_markup": null,
+      "entities": [
+        {
+          "_": "MessageEntityMention",
+          "offset": 67,
+          "length": 14
+        },
+        {
+          "_": "MessageEntityCustomEmoji",
+          "offset": 82,
+          "length": 2,
+          "document_id": 5766981338573835434
+        }
+      ],
+      "views": 385,
+      "forwards": 1,
+      "replies": null,
+      "edit_date": "2024-03-26 13:00:21+00:00",
+      "post_author": null,
+      "grouped_id": null,
+      "reactions": null,
+      "restriction_reason": [],
+      "ttl_period": null,
+      "quick_reply_shortcut_id": null,
+      "effect": null,
+      "factcheck": null,
+      "report_delivery_until_date": null,
+      "paid_message_stars": null,
+      "suggested_post": null,
+      "schedule_repeat_period": null,
+      "summary_from_language": null,
+      "rich_message": null
+    }
+  },
+  {
+    "message_id": 2,
+    "channel_name": "tikvahpharma1",
+    "message_date": "2024-03-26T06:11:53+00:00",
+    "message_text": "",
+    "has_media": false,
+    "image_path": null,
+    "views": null,
+    "forwards": null,
+    "raw": {
+      "_": "MessageService",
+      "id": 2,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 2124246939
+      },
+      "date": "2024-03-26 06:11:53+00:00",
+      "action": {
+        "_": "MessageActionChatEditPhoto",
+        "photo": {
+          "_": "Photo",
+          "id": 5769170771623658550,
+          "access_hash": 4767482373265325587,
+          "file_reference": "b'\\x02~\\x9do\\x9b\\x00\\x00\\x00\\x02jC\\x84a\\xdeiF\\xac\\xeb\\x07\\xc1\\xb5\\xbe\\x8e\\xfa\\xd5\\xb4\\xf3i)'",
+          "date": "2024-03-26 06:11:53+00:00",
+          "sizes": [
+            {
+              "_": "PhotoSize",
+              "type": "a",
+              "w": 160,
+              "h": 160,
+              "size": 7700
+            },
+            {
+              "_": "PhotoSize",
+              "type": "b",
+              "w": 320,
+              "h": 320,
+              "size": 16813
+            },
+            {
+              "_": "PhotoSize",
+              "type": "c",
+              "w": 640,
+              "h": 640,
+              "size": 33998
+            },
+            {
+              "_": "PhotoStrippedSize",
+              "type": "i",
+              "bytes": "b\"\\x01((\\xd9\\xa8\\xc3\\xb1\\x9c\\xa6\\xdc(\\x19\\xcf\\xad6i\\xd6\\x17@\\xdd\\x18\\xf2})\\xe3\\xfdk\\x7f\\xba?\\xad2n9\\x98(\\xcb\\x1c\\nZ\\x86\\xe9\\x1aH\\xb6 \\xeay\\xfaS\\xe3\\xff\\x00V\\xbc\\x11\\x81\\x8c\\x1e\\xd4t\\x1d\\xf5\\xb0\\xfa(\\xa2\\x90\\xcc\\xdb\\xd6/q\\xb4)\\x04p=\\xea\\xe5\\xbcM\\x1a\\r\\xed\\x96\\xc6>\\x94O\\x19\\xdc%E\\x0c\\xea8\\x15A\\xe7\\x98\\xb1\\xdc\\xec=\\xbaQ:\\x89$\\x8c\\x1bP\\x93l\\xd2f\\xc9\\xda\\xbd{\\xfbSA\\xf2w\\x19\\x18m\\xea\\t\\xaap\\x04,\\x1eI\\xb0A\\xce)\\xf7\\x12\\xac\\xce\\xa20_\\x00\\xf0\\x05g\\xcf\\xa5\\xca\\xe7\\xd2\\xe5\\xaf52\\x83<\\xbfN(\\xa6[\\xc2S/'\\xdf?\\xa0\\xf4\\xa2\\xad_\\xa9\\xa4n\\xd6\\xa4\\xf4\\xc7\\x89$\\xfb\\xea\\r\\x14S\\xdcv\\xb9\\x1f\\xd8\\xe1\\xfe\\xe9\\xfc\\xcdJ\\x91\\xa4c\\x08\\xa0QE$\\x92\\xd8J)l\\x87QE\\x14\\xc6\\x7f\""
+            }
+          ],
+          "dc_id": 4,
+          "has_stickers": false,
+          "video_sizes": []
+        }
+      },
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "reactions_are_possible": true,
+      "silent": false,
+      "post": true,
+      "legacy": false,
+      "from_id": null,
+      "saved_peer_id": null,
+      "reply_to": null,
+      "reactions": null,
+      "ttl_period": null
+    }
+  },
+  {
+    "message_id": 1,
+    "channel_name": "tikvahpharma1",
+    "message_date": "2024-03-26T06:10:26+00:00",
+    "message_text": "",
+    "has_media": false,
+    "image_path": null,
+    "views": null,
+    "forwards": null,
+    "raw": {
+      "_": "MessageService",
+      "id": 1,
+      "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 2124246939
+      },
+      "date": "2024-03-26 06:10:26+00:00",
+      "action": {
+        "_": "MessageActionChannelCreate",
+        "title": "@tikvahpharma1"
+      },
+      "out": false,
+      "mentioned": false,
+      "media_unread": false,
+      "reactions_are_possible": false,
+      "silent": false,
+      "post": true,
+      "legacy": false,
+      "from_id": null,
+      "saved_peer_id": null,
+      "reply_to": null,
+      "reactions": null,
+      "ttl_period": null
+    }
+  }
+]
