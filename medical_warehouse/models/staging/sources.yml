@@ -13,3 +13,12 @@ sources:
             description: "Name of the Telegram channel"
           - name: message_date
             description: "Timestamp of the message"
+      - name: yolo_detections
+        description: "YOLO object detection results for downloaded Telegram images."
+        columns:
+          - name: message_id
+            description: "Foreign key to the Telegram message this image belongs to."
+          - name: detected_class
+            description: "Object class detected by YOLOv8 (COCO classes)."
+          - name: image_category
+            description: "Derived content category: promotional, product_display, lifestyle, or other."
