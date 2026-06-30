@@ -1,0 +1,26 @@
+version: 2
+
+models:
+  - name: stg_telegram_messages
+    description: "Cleaned and standardized Telegram messages, filtered to remove empty/null text."
+    columns:
+      - name: message_id
+        description: "Unique identifier for each message."
+      - name: channel_name
+        description: "Name of the source Telegram channel."
+      - name: message_date
+        description: "Timestamp of the original message, cast to proper timestamp type."
+      - name: message_text
+        description: "Full trimmed text content of the message."
+      - name: has_media
+        description: "Boolean flag indicating if the message contains any media."
+      - name: image_path
+        description: "Local file path to the downloaded image, if applicable."
+      - name: views
+        description: "Number of views on the message, defaulted to 0 if null."
+      - name: forwards
+        description: "Number of times the message was forwarded, defaulted to 0 if null."
+      - name: message_length
+        description: "Character length of the trimmed message text."
+      - name: has_image
+        description: "Boolean flag, true if an image_path is present."

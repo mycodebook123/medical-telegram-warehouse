@@ -1,0 +1,58 @@
+version: 2
+
+models:
+  - name: dim_channels
+    description: "Channel dimension table with aggregated stats per Telegram channel."
+    columns:
+      - name: channel_key
+        description: "Surrogate primary key for the channel."
+        tests:
+          - unique
+          - not_null
+      - name: channel_name
+        description: "Name of the Telegram channel."
+        tests:
+          - unique
+          - not_null
+
+  - name: dim_dates
+    description: "Date dimension table spanning the full range of message dates."
+    columns:
+      - name: date_key
+        description: "Surrogate primary key for the date, formatted YYYYMMDD."
+        tests:
+          - unique
+          - not_null
+      - name: full_date
+        description: "The calendar date."
+        tests:
+          - unique
+          - not_null
+
+  - name: fct_messages
+    description: "Fact table with one row per Telegram message, linked to channel and date dimensions."
+    columns:
+      - name: message_id
+        description: "Unique identifier for each message."
+        tests:
+          - not_null
+      - name: channel_key
+        description: "Foreign key to dim_channels."
+        tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_channels')
+                field: channel_key
+      - name: date_key
+        description: "Foreign key to dim_dates."
+        tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_dates')
+                field: date_key
+      - name: views
+        description: "Number of views on the message."
+      - name: forwards
+        description: "Number of times the message was forwarded."

@@ -1,0 +1,15 @@
+version: 2
+
+sources:
+  - name: raw
+    schema: raw
+    tables:
+      - name: telegram_messages
+        description: "Raw Telegram messages loaded from the JSON data lake."
+        columns:
+          - name: message_id
+            description: "Unique identifier for each message"
+          - name: channel_name
+            description: "Name of the Telegram channel"
+          - name: message_date
+            description: "Timestamp of the message"
